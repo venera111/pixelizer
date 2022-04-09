@@ -29,4 +29,4 @@ before:
 ![example](angelina.png)
 after:
 ![example](angelina_out.png)
-
+![example](examples/angelina_out_8sec.gif)
