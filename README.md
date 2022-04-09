@@ -27,7 +27,4 @@ ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
 result video angelina_out.mp4:
 ![example](examples/angelina_out_8sec.gif)
-img before:
-![example](angelina.png)
-img after:
-![example](angelina_out.png)
+![example](examples/сollage.jpeg)
