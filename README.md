@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 3. Run the Python script in the active environment
 ```
-python pixelizer.py angelina.png angelina_out.png
+python pixelizer.py /path/to/video/input /path/to/video/output
 ```
 
 If you want to get an image from a video extract the first frame from the video using ffmpeg:
