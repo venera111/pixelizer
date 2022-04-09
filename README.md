@@ -29,4 +29,5 @@ before:
 ![example](angelina.png)
 after:
 ![example](angelina_out.png)
+result video angelina_out.mp4:
 ![example](examples/angelina_out_8sec.gif)
