@@ -31,3 +31,7 @@ ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 #### Resources
 - Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning [towardsdatascience](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
 - SSD: Single Shot MultiBox Detector [arxiv.org](https://arxiv.org/pdf/1512.02325.pdf)
+- Blur and anonymize faces with OpenCV and Python [pyimagesearch.com](https://pyimagesearch.com/2020/04/06/blur-and-anonymize-faces-with-opencv-and-python/#pyis-cta-modal)
+- Deep learning: How OpenCV’s blobFromImage works [pyimagesearch.com](https://pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/)
+- Converting Audio into Different Formats / Sample Rates [protrolium](https://gist.github.com/protrolium/e0dbd4bb0f1a396fcb55)
+
