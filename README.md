@@ -1,6 +1,9 @@
 # pixelizer
 “Pixelated blur” effect and anonymize faces with OpenCV, Python and ffmpeg
 
+You can use this code for any image and video formats. For example, bmp, jpeg, png, mp4, avi etc.
+
+
 To launch the project:
 1. Creation of virtual environment
 ```
