@@ -3,6 +3,7 @@
 
 You can use this code for any image and video formats. For example, bmp, jpeg, png, mp4, avi etc.
 result video angelina_out.mp4:
+
 ![example](examples/angelina_out_8sec.gif)
 
 To launch the project:
