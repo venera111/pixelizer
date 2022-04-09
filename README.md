@@ -2,7 +2,8 @@
 “Pixelated blur” effect and anonymize faces with OpenCV, Python and ffmpeg
 
 You can use this code for any image and video formats. For example, bmp, jpeg, png, mp4, avi etc.
-
+result video angelina_out.mp4:
+![example](examples/angelina_out_8sec.gif)
 
 To launch the project:
 1. Creation of virtual environment
@@ -25,5 +26,3 @@ If you want to get an image from a video extract the first frame from the video 
 ```
 ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
-result video angelina_out.mp4:
-![example](examples/angelina_out_8sec.gif)
