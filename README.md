@@ -24,3 +24,4 @@ ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
 ![example](angelina.png)
 
+![example](angelina_out.png)
