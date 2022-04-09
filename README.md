@@ -17,3 +17,8 @@ pip install -r requirements.txt
 ```
 python pixelizer.py input.bmp output.bmp
 ```
+
+extract the first frame from the video using ffmpeg:
+```
+ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 output.png
+```
