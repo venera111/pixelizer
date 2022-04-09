@@ -25,9 +25,9 @@ If you want to get an image from a video extract the first frame from the video 
 ```
 ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
-before:
-![example](angelina.png)
-after:
-![example](angelina_out.png)
 result video angelina_out.mp4:
 ![example](examples/angelina_out_8sec.gif)
+img before:
+![example](angelina.png)
+img after:
+![example](angelina_out.png)
