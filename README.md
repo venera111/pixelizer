@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python pixelizer.py angelina.png angelina_out.png
 ```
 
-extract the first frame from the video using ffmpeg:
+If you want to get an image from a video extract the first frame from the video using ffmpeg:
 ```
 ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
@@ -29,3 +29,4 @@ before:
 ![example](angelina.png)
 after:
 ![example](angelina_out.png)
+
