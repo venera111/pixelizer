@@ -27,3 +27,6 @@ If you want to get an image from a video extract the first frame from the video 
 ```
 ffmpeg -i angelina.mp4 -ss 00:00:00 -vframes 1 angelina.png
 ```
+
+#### Resources
+- Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning [towardsdatascience](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
